@@ -1,0 +1,210 @@
+#include<bits/stdc++.h>
+using namespace std;
+typedef long long int ll;
+
+// input limits
+#define MAX_N 77
+#define MAX_K 6
+
+// infinity
+#define OO 1000000000000
+
+// directions
+#define downwards 0
+#define to_the_right 1
+#define to_the_left 2
+
+
+// input data
+int n, k;
+int arr[MAX_N][MAX_N];
+
+/*
+ * memo[][][][] will be used to store:
+ * - DP memory in the DP solution
+ * - distance in the Dijkstra solution
+ */
+ll memo[MAX_N][MAX_N][MAX_K][3];
+
+/*
+ * dp (i, j, l, d) returns the maximum gain you could make,
+ * starting at tile (i, j) in the grid,
+ * knowing that you are allowed to take l more negative items
+ * 		(tile (i, j) has not been accounted for in the negative count),
+ * and that your last direction of movement was d
+ */
+inline ll dp(const int i, const int j, int l, const int d)
+{
+	// 1. check if answer has been memorized
+	ll & ret = memo[i][j][l][d];
+	if (ret != -1LL) return ret;
+
+	// if the value in your tile is negative, account for it
+	l -= (arr[i][j] < 0);
+
+	if (l < 0) return -OO;
+
+	// base case: we are at the corner
+	if (i == n - 1 && j == n - 1)
+	{
+		return ret = arr[i][j];
+	}
+
+	ll next = -OO;	// initialize to an invalid value
+
+	// try moving downwards, if possible
+	if (i < n - 1)
+	{
+		next = max(next, dp(i + 1, j, l, downwards));
+	}
+
+	// try moving to the left, if possible
+	if (d != to_the_left && j < n - 1 )
+	{
+		next = max(next, dp(i, j + 1, l, to_the_right));
+	}
+
+	// try moving to the right, if possible
+	if (d != to_the_right && j > 0 )
+	{
+		next = max(next, dp(i, j - 1, l, to_the_left));
+	}
+
+	// if nonve of the above yielded a valid result, return an invalid value
+	// otherwise, return the value of your own tile + the maximum you could make afterwards!
+	return ret = (next == -OO) ? -OO : arr[i][j] + next;
+}
+
+// will be used for the Dijkstra solution
+struct state
+{
+	int i, j, l, d;
+	ll gain;
+	state(const int _i, const int _j, const int _l, const int _d, const ll _gain) : i(_i), j(_j), l(_l), d(_d), gain(_gain){}
+};
+inline bool operator < (const state & a, const state & b)
+{
+	return a.d < b.d;
+}
+
+/*
+ * The code for the maximizing version of Dijkstra is very similar to the code for the minimizing version
+ * It was obtained by:
+ * - reversing the comparison operators
+ * - replacing the minimum priority queue with a maximum priority queue
+ * - initializing distance to -OO instead of OO
+ */
+inline void dij()
+{
+	priority_queue<state> q;
+	q.push(state(0, 0, k, downwards, 0));
+	memo[0][0][k][downwards] = 0;
+	while (!q.empty())
+	{
+		state v = q.top(); q.pop();
+		if (memo[v.i][v.j][v.l][v.d] > v.gain) continue;
+		v.gain += arr[v.i][v.j];
+		v.l -= (arr[v.i][v.j] < 0);
+		if (v.l < 0) continue;
+
+		// try moving downwards
+		// in graph terms, this is a transition from the nod representing the current state
+		// to the node representing the state obtained after moving downwards
+		if (v.i < n - 1 && memo[v.i + 1][v.j][v.l][downwards] < v.gain)
+		{
+			memo[v.i + 1][v.j][v.l][downwards] = v.gain;
+			q.push(state(v.i + 1, v.j, v.l, downwards, v.gain));
+		}
+
+		// try moving to the left
+		if (v.d != to_the_left && v.j < n - 1 && memo[v.i][v.j + 1][v.l][to_the_right] < v.gain)
+		{
+			memo[v.i][v.j + 1][v.l][to_the_right] = v.gain;
+			q.push(state(v.i, v.j + 1, v.l, to_the_right, v.gain));
+		}
+
+		// try moving to the right
+		if (v.d != to_the_right && v.j > 0 && memo[v.i][v.j - 1][v.l][to_the_left] < v.gain)
+		{
+			memo[v.i][v.j - 1][v.l][to_the_left] = v.gain;
+			q.push(state(v.i, v.j - 1, v.l, to_the_left, v.gain));
+		}
+	}
+}
+inline void read()
+{
+	for (int i = 0; i < n; ++i)
+	{
+		for (int j = 0; j < n; ++j)
+		{
+			scanf("%d", arr[i] + j);
+		}
+	}
+}
+inline ll solve_dp()
+{
+	memset(memo, -1, sizeof memo);
+	return dp(0, 0, k, downwards);
+}
+inline ll solve_dij()
+{
+	// initialize all distance to -OO
+	for (int i = 0; i < MAX_N; ++i)
+	{
+		for (int j = 0; j < MAX_N; ++j)
+		{
+			for (int l = 0; l < MAX_K; ++l)
+			{
+				for (int d = 0; d < 3; ++d)
+				{
+					memo[i][j][l][d] = -OO;
+				}
+			}
+		}
+	}
+	dij();
+	ll ans = -OO;
+	for (int l = (arr[n - 1][n - 1] < 0); l <= k; ++l)
+	{
+		for (int d = 0; d < 2; ++d)
+		{
+			ans = max(ans, memo[n - 1][n - 1][l][d]);
+		}
+	}
+
+	return ans == -OO ? -OO : ans + arr[n - 1][n - 1];
+}
+int main()
+{
+	for (int tc = 1; scanf("%d%d", &n, &k), n || k; ++tc)
+	{
+		read();
+		ll ans = solve_dij();	// ll ans = solve_dp();
+		printf("Case %d: ", tc);
+
+		if (ans == -OO)
+		{
+			printf("impossible");
+		}
+		else
+		{
+			printf("%lld", ans);
+		}
+		printf("\n");
+	}
+	return 0;
+}
+/*
+4 1
+1 2 3 -5
+-10 6 0 -1
+-10 -10 -10 2
+0 0 0 1
+4 0
+1 2 3 -5
+-10 6 0 -1
+-10 -10 -10 2
+0 0 0 1
+0 0
+ */
+
