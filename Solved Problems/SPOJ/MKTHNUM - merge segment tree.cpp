@@ -47,7 +47,7 @@ int i, j, k, val;
 inline int query(const int p, const int l, const int r)
 {
 	/*
-	 * Return the number of elements in this interval that is less than or equal to val!
+	 * Return the number of elements in this interval that are less than or equal to val!
 	 */
 	if (l > j || r < i) return 0;
 	if (l >= i && r <= j) return upper_bound(st[p].begin(), st[p].end(), val) - st[p].begin();

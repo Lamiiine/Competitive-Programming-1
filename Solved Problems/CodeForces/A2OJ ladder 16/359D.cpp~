@@ -1,0 +1,142 @@
+#include <bits/stdc++.h>
+#define MAX 300003
+using namespace std;
+typedef long long ll;
+typedef pair<int, int> ii;
+int ans_val = -1;
+set<int> ans;
+
+int n, a[MAX];
+vector<int> factors[MAX];
+
+vector<int> prime_occur[1000000];	// prime_occur[i] = indexes of occurences of prime i
+
+vector<int> primes;
+inline void sieve()
+{
+	const int bound = 1000;
+	primes.reserve(bound / log(bound));
+	bitset<bound + 1> bs;
+	bs.set();
+	bs[0] = bs[1] = 0;
+	for (int i = 2; i <= bound; ++i)
+		if (bs[i])
+		{
+			primes.push_back(i);
+			for (int j = i * i; j <= bound; j += i) bs[j] = 0;
+		}
+}
+inline void read()
+{
+	scanf("%d", &n); for (int i = 0; i < n; ++i) scanf("%d", a + i);
+}
+inline vector<int> factorize(int x)
+{
+	vector<int> ans;
+	for (int i = 0, p = primes[0]; p * p <= x; p = primes[++i])
+		if (x % p == 0)
+		{
+			ans.push_back(p);
+			x /= p;
+			while (x % p == 0) x /= p;
+		}
+	if (x != 1) ans.push_back(x);
+	return ans;
+}
+inline void factorize()
+{
+	for (int i = 0; i < n; ++i)
+	{
+		factors[i] = factorize(a[i]);
+		for (const auto p : factors[i]){
+			prime_occur[p].push_back(i);
+		}
+	}
+}
+inline void print(const int i, const int j)
+{
+	printf("%d %d\n", i, j);
+}
+inline void print(const int i)
+{
+	printf("%d\n", i);
+}
+inline int lowest(const int i, const vector<int> & v)
+{
+	// i is an index in v!
+	// We want to find the lowest s such that
+	// v[e] - v[s] == e - s
+	int lo = 0, hi = i;
+	while(lo != hi)
+	{
+		const int mid = (lo + hi) >> 1;
+		if (v[i] - v[mid] == i - mid)
+			hi = mid;
+		else
+			lo = mid + 1;
+	}
+	return v[lo];
+}
+inline int highest(const int i, const vector<int> & v)
+{
+	int lo = i, hi = v.size() - 1;
+	while(lo != hi)
+	{
+		const int mid = max((lo + hi) >> 1, lo + 1);
+		if (v[i] - v[mid] == i - mid)
+			lo = mid;
+		else
+			hi = mid - 1;
+	}
+	return v[lo];
+}
+int main()
+{
+	sieve();
+	read();
+	factorize();
+	// Select a j!
+	for (int j = 0; j < n; ++j)
+	{
+		int s = 0, e = n - 1;
+		for (auto p : factors[j])
+		{
+			const vector<int> & v = prime_occur[p];
+			const int j_idx = lower_bound(v.begin(), v.end(), j) - v.begin();
+			s = max(s, lowest(j_idx, v));
+			e = min(e, highest(j_idx, v));
+		}
+		if (e - s > ans_val)
+		{
+			ans_val = e - s;
+			ans.clear();
+		}
+		if (e - s == ans_val) {
+			ans.insert(s + 1);
+		}
+	}
+	printf("%d %d\n", (int) ans.size(), ans_val);
+	for (const int x : ans)
+		printf("%d ", x);
+}
+/*
+input
+5
+4 6 9 3 6
+output
+1 3
+2
+input
+5
+1 3 5 7 9
+output
+1 4
+1
+input
+5
+2 3 5 7 11
+output
+5 0
+1 2 3 4 5
+ */
+

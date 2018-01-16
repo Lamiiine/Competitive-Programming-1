@@ -65,10 +65,7 @@ int solution(vector<int> & A)
 
 	vector<segment_tree> trees;	/* trees[j][i] = maximum score starting at i,
 	knowing that you have changed direction j times before. */
-	for (int i = 0; i < 3; ++i)
-	{
-		trees.push_back(segment_tree(N));
-	}
+	for (int i = 0; i < 3; ++i) trees.push_back(segment_tree(N));
 	for (int i = N - 1; i >= 0; --i)
 	{
 		const int idx = m[A[i]];
