@@ -1,183 +1,183 @@
-\contentsline {chapter}{\numberline {1}Dynamic Programming}{5}
-\contentsline {section}{\numberline {1.1}1-D Maximum Range Sum Query $O(n)$}{5}
-\contentsline {section}{\numberline {1.2}2-D Maximum Range Sum Query $O(n^3)$}{6}
-\contentsline {section}{\numberline {1.3}Longest Increasing Subsequence (Recursive) $O(n^2)$}{7}
-\contentsline {section}{\numberline {1.4}Longest Increasing Subsequence (Iterative) $O(n^2)$}{7}
-\contentsline {section}{\numberline {1.5}Longest Increasing Subsequence (Iterative) $O(n\qopname \relax o{log}k)$}{8}
-\contentsline {section}{\numberline {1.6}$0-1$ Knapsack (Arbitrary size) $O(nS)$}{10}
-\contentsline {section}{\numberline {1.7}Subset Sum (Arbitrary-size) $O(nS)$}{10}
-\contentsline {section}{\numberline {1.8}Subset sum (Fixed-size) $O(n^2S)$}{12}
-\contentsline {paragraph}{Bottom-up approach}{12}
-\contentsline {paragraph}{Rolling}{12}
-\contentsline {paragraph}{Top-down approach}{13}
-\contentsline {paragraph}{Graph modeling}{14}
-\contentsline {section}{\numberline {1.9}Coin Change (Arbitrary-size)$O(nS)$}{14}
-\contentsline {section}{\numberline {1.10}Counting Coin Change (Arbitrary-size) $O(nS)$}{15}
-\contentsline {section}{\numberline {1.11}Counting Coin Change (Fixed-size) $O(nKS)$}{16}
-\contentsline {section}{\numberline {1.12}Optimal Binary Search Tree (iterative) $O(n^3)$}{17}
-\contentsline {section}{\numberline {1.13}Optimal Binary Search Tree (Recursive) $O(n^3)$}{19}
-\contentsline {section}{\numberline {1.14}Optimal Binary Search Tree - Iterative - Knuth Optimization $O(n^2)$}{20}
-\contentsline {section}{\numberline {1.15}Count Sort $O(n)$}{21}
-\contentsline {section}{\numberline {1.16}Traveling Salesman Problem $O(n2^n)$}{22}
-\contentsline {section}{\numberline {1.17}Bitonic Traveling Salesman Problem $O(n^2)$}{23}
-\contentsline {section}{\numberline {1.18}? Chinese Postman Problem}{24}
-\contentsline {section}{\numberline {1.19}? Convex Hull Optimization}{24}
-\contentsline {subsection}{\numberline {1.19.1}Sorting the Input.}{27}
-\contentsline {section}{\numberline {1.20}Notes}{27}
-\contentsline {chapter}{\numberline {2}Complete Search}{29}
-\contentsline {section}{\numberline {2.1}Subset Sum $o(2^n)$}{29}
-\contentsline {section}{\numberline {2.2}Towers of Hanoi}{30}
-\contentsline {section}{\numberline {2.3}$n$ Queens}{31}
-\contentsline {section}{\numberline {2.4}? Meet in the Middle \& Pancake Sort}{32}
-\contentsline {section}{\numberline {2.5}? Informed Search \& $15-$puzzle}{32}
-\contentsline {section}{\numberline {2.6}? Iterative Deepening Search}{32}
-\contentsline {section}{\numberline {2.7}Notes}{32}
-\contentsline {paragraph}{Recursive Backtracking}{32}
-\contentsline {chapter}{\numberline {3}Greedy \& Constructive Algorithms}{35}
-\contentsline {section}{\numberline {3.1}Sliding Window}{35}
-\contentsline {section}{\numberline {3.2}Optimal Merge Tree (Huffman Encoding) $O(n\qopname \relax o{log}n)$}{36}
-\contentsline {section}{\numberline {3.3}Largest Rectangle in a Histogram $O(n)$}{37}
-\contentsline {section}{\numberline {3.4}Bracket Matching $O(n)$}{38}
-\contentsline {section}{\numberline {3.5}Magic Square $O(n^2)$}{38}
-\contentsline {section}{\numberline {3.6}? Interval Coverage $O(n)$}{39}
-\contentsline {section}{\numberline {3.7}Load-Balancing $O(n)$}{39}
-\contentsline {section}{\numberline {3.8}? Grid Compression}{40}
-\contentsline {section}{\numberline {3.9}Mo's Algorithms}{40}
-\contentsline {section}{\numberline {3.10}Notes}{43}
-\contentsline {chapter}{\numberline {4}Divide \& Conquer}{45}
-\contentsline {section}{\numberline {4.1}Bisection Method}{45}
-\contentsline {section}{\numberline {4.2}Merge Sort $O(n\qopname \relax o{log}n)$}{46}
-\contentsline {section}{\numberline {4.3}Quick Select $O(n)$}{47}
-\contentsline {section}{\numberline {4.4}Quick Sort $O(n\qopname \relax o{log}n)$}{48}
-\contentsline {section}{\numberline {4.5}Notes}{48}
-\contentsline {chapter}{\numberline {5}Graph Traversal}{51}
-\contentsline {section}{\numberline {5.1}Graph Optimizations}{51}
-\contentsline {section}{\numberline {5.2}Graph Representation}{51}
-\contentsline {section}{\numberline {5.3}DFS $O(E)$}{52}
-\contentsline {section}{\numberline {5.4}BFS $O(E)$}{53}
-\contentsline {section}{\numberline {5.5}Lowest Common Ancestor}{54}
-\contentsline {section}{\numberline {5.6}? Euler Tour}{55}
-\contentsline {section}{\numberline {5.7}Coloring $O(k^n)$}{55}
-\contentsline {section}{\numberline {5.8}Notes}{55}
-\contentsline {chapter}{\numberline {6}Shortest Paths}{57}
-\contentsline {section}{\numberline {6.1}Dijkstra $O(E\qopname \relax o{log}E)$}{57}
-\contentsline {section}{\numberline {6.2}Dijkstra $O(n^2)$}{58}
-\contentsline {section}{\numberline {6.3}Shortest Path Faster Algorithm}{59}
-\contentsline {section}{\numberline {6.4}Bellman-Ford $O(VE)$}{60}
-\contentsline {section}{\numberline {6.5}Bellman-Ford (SPFA) $O(VE)$}{61}
-\contentsline {section}{\numberline {6.6}Floyd-Warshall $O(n^3)$}{63}
-\contentsline {section}{\numberline {6.7}Transitive closure $O(n^3)$}{63}
-\contentsline {section}{\numberline {6.8}Notes}{64}
-\contentsline {chapter}{\numberline {7}Minimum Spanning Tree}{65}
-\contentsline {section}{\numberline {7.1}Kruskal $O(E\qopname \relax o{log}E)$}{65}
-\contentsline {section}{\numberline {7.2}Prim $O(E\qopname \relax o{log}E)$}{66}
-\contentsline {section}{\numberline {7.3}? Prim $O(n^2)$}{67}
-\contentsline {chapter}{\numberline {8}Graph Connectivity}{69}
-\contentsline {section}{\numberline {8.1}Articulation Points \& Bridges (undirected graphs) $O(V + E)$}{69}
-\contentsline {section}{\numberline {8.2}? Bi-connected Components $O(V + E)$}{71}
-\contentsline {section}{\numberline {8.3}? Cyclic Components}{73}
-\contentsline {section}{\numberline {8.4}Strongly Connected Components\textsubscript {Tarjan} $O(E)$}{73}
-\contentsline {section}{\numberline {8.5}? 2-SAT}{75}
-\contentsline {section}{\numberline {8.6}Strongly-Connected Components\textsubscript {Kosaraju}, $O(E)$}{75}
-\contentsline {section}{\numberline {8.7}Notes}{76}
-\contentsline {chapter}{\numberline {9}Directed-Acyclic Graph}{79}
-\contentsline {section}{\numberline {9.1}Topological sort (DFS)}{79}
-\contentsline {section}{\numberline {9.2}Topological Sort (Queue)}{80}
-\contentsline {section}{\numberline {9.3}All Topological Sorts}{81}
-\contentsline {section}{\numberline {9.4}DAG to DAT}{83}
-\contentsline {section}{\numberline {9.5}? Maximum Path on DAG}{84}
-\contentsline {chapter}{\numberline {10}Maximum Flow}{85}
-\contentsline {section}{\numberline {10.1}Maximum Flow (DFS) $O(VE)*O(E_{DFS})$}{85}
-\contentsline {section}{\numberline {10.2}Maximum Flow (DFS) with Scaling $O(VE)*O(E_{DFS})$}{86}
-\contentsline {section}{\numberline {10.3}Maximum Flow (BFS) with Residue Matrix $O(VE)*O(E_{BFS})$}{87}
-\contentsline {section}{\numberline {10.4}Maximum Flow (BFS) $O(VE)*O(E_{BFS})$}{88}
-\contentsline {section}{\numberline {10.5}Dinic $O(V^2E)$}{90}
-\contentsline {section}{\numberline {10.6}? Minimum-Cost Maximum Flow}{93}
-\contentsline {section}{\numberline {10.7}Notes}{95}
-\contentsline {chapter}{\numberline {11}Matching}{97}
-\contentsline {section}{\numberline {11.1}Bipartite Matching (DFS) $O(VE)$}{97}
-\contentsline {section}{\numberline {11.2}Bipartite Matching (BFS) $O(VE)$}{98}
-\contentsline {section}{\numberline {11.3}Minimum Path Cover on DAG}{100}
-\contentsline {section}{\numberline {11.4}Minimum Edge Cover on Tree}{100}
-\contentsline {section}{\numberline {11.5}Notes}{101}
-\contentsline {chapter}{\numberline {12}Number Theory}{105}
-\contentsline {section}{\numberline {12.1}GCD \& LCM}{105}
-\contentsline {section}{\numberline {12.2}Sieve of Eratosthenes $O(n\qopname \relax o{log}\qopname \relax o{log}n)$}{105}
-\contentsline {section}{\numberline {12.3}Segment Sieve}{106}
-\contentsline {section}{\numberline {12.4}Modified Sieve}{107}
-\contentsline {section}{\numberline {12.5}Primality Testing $O(\sqrt {n}/\qopname \relax o{ln}(\sqrt {n}))$}{108}
-\contentsline {section}{\numberline {12.6}Miller-Rabin}{108}
-\contentsline {section}{\numberline {12.7}Integer Factorization}{110}
-\contentsline {section}{\numberline {12.8}? Pollard Rho}{113}
-\contentsline {section}{\numberline {12.9}Extended Euclid}{113}
-\contentsline {section}{\numberline {12.10}? Linear Diophantine Equations}{113}
-\contentsline {section}{\numberline {12.11}? Modular Linear Equation}{114}
-\contentsline {section}{\numberline {12.12}? Chinese Remainder Theorem}{114}
-\contentsline {section}{\numberline {12.13}? Multiplicative Inverses modulo $n$}{114}
-\contentsline {section}{\numberline {12.14}Perfect Number Test}{114}
-\contentsline {section}{\numberline {12.15}Notes}{114}
-\contentsline {chapter}{\numberline {13}Probability and Combinatorics}{117}
-\contentsline {section}{\numberline {13.1}Fibonacci Sequence}{117}
-\contentsline {section}{\numberline {13.2}Binomial Coefficients}{118}
-\contentsline {section}{\numberline {13.3}Catalan Numbers}{119}
-\contentsline {section}{\numberline {13.4}Inclusion Exclusion}{120}
-\contentsline {paragraph}{Stars \& Bars Theorem 1}{121}
-\contentsline {paragraph}{Stars \& Bars Theorem 2}{121}
-\contentsline {section}{\numberline {13.5}Probability Theory}{121}
-\contentsline {section}{\numberline {13.6}? Finite Infinite Recursion}{122}
-\contentsline {section}{\numberline {13.7}Subsequence Count}{123}
-\contentsline {section}{\numberline {13.8}Notes}{126}
-\contentsline {chapter}{\numberline {14}Linear Algebra}{129}
-\contentsline {section}{\numberline {14.1}Gaussian Elimination}{129}
-\contentsline {section}{\numberline {14.2}Matrix Power}{131}
-\contentsline {section}{\numberline {14.3}? Simpsons' Integration}{131}
-\contentsline {section}{\numberline {14.4}? Floyd's Cycle Finding}{133}
-\contentsline {section}{\numberline {14.5}? Fast Fourier Transform}{133}
-\contentsline {chapter}{\numberline {15}Game Theory}{137}
-\contentsline {section}{\numberline {15.1}Nim Game}{137}
-\contentsline {section}{\numberline {15.2}Josephus Problem}{137}
-\contentsline {section}{\numberline {15.3}Notes}{138}
-\contentsline {chapter}{\numberline {16}String Processing}{139}
-\contentsline {section}{\numberline {16.1}Knuth-Morris-Pratt}{139}
-\contentsline {section}{\numberline {16.2}? Z}{140}
-\contentsline {section}{\numberline {16.3}Rabin-Karp}{140}
-\contentsline {section}{\numberline {16.4}Trie}{143}
-\contentsline {section}{\numberline {16.5}? Patrica Tree}{146}
-\contentsline {section}{\numberline {16.6}? Aho-Corasick}{146}
-\contentsline {section}{\numberline {16.7}? Suffix Array $O(n^2\qopname \relax o{log}n)$}{146}
-\contentsline {section}{\numberline {16.8}? Suffix Array $O(n\qopname \relax o{log}^2 n)$}{146}
-\contentsline {section}{\numberline {16.9}? Suffix Array $O(n\qopname \relax o{log}n)$}{147}
-\contentsline {section}{\numberline {16.10}? Longest Common Prefix}{150}
-\contentsline {section}{\numberline {16.11}Permutation}{151}
-\contentsline {section}{\numberline {16.12}Edit Distance}{152}
-\contentsline {section}{\numberline {16.13}Shortest Uncommon Subsequence}{153}
-\contentsline {section}{\numberline {16.14}Arithmetic Expression parsing}{154}
-\contentsline {section}{\numberline {16.15}Notes}{156}
-\contentsline {chapter}{\numberline {17}Geometry}{157}
-\contentsline {section}{\numberline {17.1}Points, Lines, \& Vectors}{157}
-\contentsline {section}{\numberline {17.2}Triangles}{162}
-\contentsline {section}{\numberline {17.3}Circles}{164}
-\contentsline {section}{\numberline {17.4}Minimum Enclosing Circle}{168}
-\contentsline {section}{\numberline {17.5}Polygons}{169}
-\contentsline {section}{\numberline {17.6}Convex Hull}{172}
-\contentsline {section}{\numberline {17.7}2-D Closest Pair $O(n\qopname \relax o{log}n)$}{175}
-\contentsline {section}{\numberline {17.8}Great-Circle Distance}{176}
-\contentsline {section}{\numberline {17.9}Notes}{176}
-\contentsline {chapter}{\numberline {18}Data Structures}{179}
-\contentsline {section}{\numberline {18.1}Disjoint Sets}{179}
-\contentsline {section}{\numberline {18.2}Bit Masking}{182}
-\contentsline {section}{\numberline {18.3}Segment Trees $O(n \qopname \relax o{log}n)$}{183}
-\contentsline {subsection}{\numberline {18.3.1}Range Maximum Query}{183}
-\contentsline {subsection}{\numberline {18.3.2}Range Sum Query - Lazy Propagation - OOP Implementation}{186}
-\contentsline {subsection}{\numberline {18.3.3}Bit Flipping - Lazy Propagation}{190}
-\contentsline {subsection}{\numberline {18.3.4}Subinterval Segment Tree}{194}
-\contentsline {subsection}{\numberline {18.3.5}? Persistent Segment Tree}{196}
-\contentsline {subsection}{\numberline {18.3.6}Subinterval Segment Tree}{197}
-\contentsline {section}{\numberline {18.4}Fenwick Trees $O(n\qopname \relax o{log}n)$}{197}
-\contentsline {section}{\numberline {18.5}Sparse Tables}{198}
-\contentsline {section}{\numberline {18.6}? Treap}{199}
-\contentsline {section}{\numberline {18.7}Notes}{199}
-\contentsline {chapter}{\numberline {19}Miscellaneous}{201}
-\contentsline {section}{\numberline {19.1}Stress Test}{201}
-\contentsline {section}{\numberline {19.2}Strategy}{203}
-\contentsline {section}{\numberline {19.3}Hints For ICPC}{204}
+\contentsline {chapter}{\numberline {1}Dynamic Programming}{9}
+\contentsline {section}{\numberline {1.1}1-D Maximum Range Sum Query $O(n)$}{9}
+\contentsline {section}{\numberline {1.2}2-D Maximum Range Sum Query $O(n^3)$}{10}
+\contentsline {section}{\numberline {1.3}Longest Increasing Subsequence (Recursive) $O(n^2)$}{11}
+\contentsline {section}{\numberline {1.4}Longest Increasing Subsequence (Iterative) $O(n^2)$}{11}
+\contentsline {section}{\numberline {1.5}Longest Increasing Subsequence (Iterative) $O(n\qopname \relax o{log}k)$}{12}
+\contentsline {section}{\numberline {1.6}$0-1$ Knapsack (Arbitrary size) $O(nS)$}{14}
+\contentsline {section}{\numberline {1.7}Subset Sum (Arbitrary-size) $O(nS)$}{14}
+\contentsline {section}{\numberline {1.8}Subset sum (Fixed-size) $O(n^2S)$}{16}
+\contentsline {paragraph}{Bottom-up approach}{16}
+\contentsline {paragraph}{Rolling}{16}
+\contentsline {paragraph}{Top-down approach}{17}
+\contentsline {paragraph}{Graph modeling}{18}
+\contentsline {section}{\numberline {1.9}Coin Change (Arbitrary-size)$O(nS)$}{18}
+\contentsline {section}{\numberline {1.10}Counting Coin Change (Arbitrary-size) $O(nS)$}{19}
+\contentsline {section}{\numberline {1.11}Counting Coin Change (Fixed-size) $O(nKS)$}{20}
+\contentsline {section}{\numberline {1.12}Optimal Binary Search Tree (iterative) $O(n^3)$}{21}
+\contentsline {section}{\numberline {1.13}Optimal Binary Search Tree (Recursive) $O(n^3)$}{23}
+\contentsline {section}{\numberline {1.14}Optimal Binary Search Tree - Iterative - Knuth Optimization $O(n^2)$}{24}
+\contentsline {section}{\numberline {1.15}Count Sort $O(n)$}{25}
+\contentsline {section}{\numberline {1.16}Traveling Salesman Problem $O(n2^n)$}{26}
+\contentsline {section}{\numberline {1.17}Bitonic Traveling Salesman Problem $O(n^2)$}{27}
+\contentsline {section}{\numberline {1.18}? Chinese Postman Problem}{28}
+\contentsline {section}{\numberline {1.19}? Convex Hull Optimization}{28}
+\contentsline {subsection}{\numberline {1.19.1}Sorting the Input.}{31}
+\contentsline {section}{\numberline {1.20}Notes}{31}
+\contentsline {chapter}{\numberline {2}Complete Search}{33}
+\contentsline {section}{\numberline {2.1}Subset Sum $o(2^n)$}{33}
+\contentsline {section}{\numberline {2.2}Towers of Hanoi}{34}
+\contentsline {section}{\numberline {2.3}$n$ Queens}{35}
+\contentsline {section}{\numberline {2.4}? Meet in the Middle \& Pancake Sort}{36}
+\contentsline {section}{\numberline {2.5}? Informed Search \& $15-$puzzle}{36}
+\contentsline {section}{\numberline {2.6}? Iterative Deepening Search}{36}
+\contentsline {section}{\numberline {2.7}Notes}{36}
+\contentsline {paragraph}{Recursive Backtracking}{36}
+\contentsline {chapter}{\numberline {3}Greedy \& Constructive Algorithms}{39}
+\contentsline {section}{\numberline {3.1}Sliding Window}{39}
+\contentsline {section}{\numberline {3.2}Optimal Merge Tree (Huffman Encoding) $O(n\qopname \relax o{log}n)$}{40}
+\contentsline {section}{\numberline {3.3}Largest Rectangle in a Histogram $O(n)$}{41}
+\contentsline {section}{\numberline {3.4}Bracket Matching $O(n)$}{42}
+\contentsline {section}{\numberline {3.5}Magic Square $O(n^2)$}{42}
+\contentsline {section}{\numberline {3.6}? Interval Coverage $O(n)$}{43}
+\contentsline {section}{\numberline {3.7}Load-Balancing $O(n)$}{43}
+\contentsline {section}{\numberline {3.8}? Grid Compression}{44}
+\contentsline {section}{\numberline {3.9}Mo's Algorithms}{44}
+\contentsline {section}{\numberline {3.10}Notes}{47}
+\contentsline {chapter}{\numberline {4}Divide \& Conquer}{49}
+\contentsline {section}{\numberline {4.1}Bisection Method}{49}
+\contentsline {section}{\numberline {4.2}Merge Sort $O(n\qopname \relax o{log}n)$}{50}
+\contentsline {section}{\numberline {4.3}Quick Select $O(n)$}{51}
+\contentsline {section}{\numberline {4.4}Quick Sort $O(n\qopname \relax o{log}n)$}{52}
+\contentsline {section}{\numberline {4.5}Notes}{52}
+\contentsline {chapter}{\numberline {5}Graph Traversal}{55}
+\contentsline {section}{\numberline {5.1}Graph Optimizations}{55}
+\contentsline {section}{\numberline {5.2}Graph Representation}{55}
+\contentsline {section}{\numberline {5.3}DFS $O(E)$}{56}
+\contentsline {section}{\numberline {5.4}BFS $O(E)$}{57}
+\contentsline {section}{\numberline {5.5}Lowest Common Ancestor}{58}
+\contentsline {section}{\numberline {5.6}? Euler Tour}{59}
+\contentsline {section}{\numberline {5.7}Coloring $O(k^n)$}{59}
+\contentsline {section}{\numberline {5.8}Notes}{59}
+\contentsline {chapter}{\numberline {6}Shortest Paths}{61}
+\contentsline {section}{\numberline {6.1}Dijkstra $O(E\qopname \relax o{log}E)$}{61}
+\contentsline {section}{\numberline {6.2}Dijkstra $O(n^2)$}{62}
+\contentsline {section}{\numberline {6.3}Shortest Path Faster Algorithm}{63}
+\contentsline {section}{\numberline {6.4}Bellman-Ford $O(VE)$}{64}
+\contentsline {section}{\numberline {6.5}Bellman-Ford (SPFA) $O(VE)$}{65}
+\contentsline {section}{\numberline {6.6}Floyd-Warshall $O(n^3)$}{67}
+\contentsline {section}{\numberline {6.7}Transitive closure $O(n^3)$}{67}
+\contentsline {section}{\numberline {6.8}Notes}{68}
+\contentsline {chapter}{\numberline {7}Minimum Spanning Tree}{69}
+\contentsline {section}{\numberline {7.1}Kruskal $O(E\qopname \relax o{log}E)$}{69}
+\contentsline {section}{\numberline {7.2}Prim $O(E\qopname \relax o{log}E)$}{70}
+\contentsline {section}{\numberline {7.3}? Prim $O(n^2)$}{71}
+\contentsline {chapter}{\numberline {8}Graph Connectivity}{73}
+\contentsline {section}{\numberline {8.1}Articulation Points \& Bridges (undirected graphs) $O(V + E)$}{73}
+\contentsline {section}{\numberline {8.2}? Bi-connected Components $O(V + E)$}{75}
+\contentsline {section}{\numberline {8.3}? Cyclic Components}{77}
+\contentsline {section}{\numberline {8.4}Strongly Connected Components\textsubscript {Tarjan} $O(E)$}{77}
+\contentsline {section}{\numberline {8.5}? 2-SAT}{79}
+\contentsline {section}{\numberline {8.6}Strongly-Connected Components\textsubscript {Kosaraju}, $O(E)$}{79}
+\contentsline {section}{\numberline {8.7}Notes}{80}
+\contentsline {chapter}{\numberline {9}Directed-Acyclic Graph}{83}
+\contentsline {section}{\numberline {9.1}Topological sort (DFS)}{83}
+\contentsline {section}{\numberline {9.2}Topological Sort (Queue)}{84}
+\contentsline {section}{\numberline {9.3}All Topological Sorts}{85}
+\contentsline {section}{\numberline {9.4}DAG to DAT}{87}
+\contentsline {section}{\numberline {9.5}? Maximum Path on DAG}{88}
+\contentsline {chapter}{\numberline {10}Maximum Flow}{89}
+\contentsline {section}{\numberline {10.1}Maximum Flow (DFS) $O(VE)*O(E_{DFS})$}{89}
+\contentsline {section}{\numberline {10.2}Maximum Flow (DFS) with Scaling $O(VE)*O(E_{DFS})$}{90}
+\contentsline {section}{\numberline {10.3}Maximum Flow (BFS) with Residue Matrix $O(VE)*O(E_{BFS})$}{91}
+\contentsline {section}{\numberline {10.4}Maximum Flow (BFS) $O(VE)*O(E_{BFS})$}{92}
+\contentsline {section}{\numberline {10.5}Dinic $O(V^2E)$}{94}
+\contentsline {section}{\numberline {10.6}? Minimum-Cost Maximum Flow}{97}
+\contentsline {section}{\numberline {10.7}Notes}{99}
+\contentsline {chapter}{\numberline {11}Matching}{101}
+\contentsline {section}{\numberline {11.1}Bipartite Matching (DFS) $O(VE)$}{101}
+\contentsline {section}{\numberline {11.2}Bipartite Matching (BFS) $O(VE)$}{102}
+\contentsline {section}{\numberline {11.3}Minimum Path Cover on DAG}{104}
+\contentsline {section}{\numberline {11.4}Minimum Edge Cover on Tree}{104}
+\contentsline {section}{\numberline {11.5}Notes}{105}
+\contentsline {chapter}{\numberline {12}Number Theory}{109}
+\contentsline {section}{\numberline {12.1}GCD \& LCM}{109}
+\contentsline {section}{\numberline {12.2}Sieve of Eratosthenes $O(n\qopname \relax o{log}\qopname \relax o{log}n)$}{109}
+\contentsline {section}{\numberline {12.3}Segment Sieve}{110}
+\contentsline {section}{\numberline {12.4}Modified Sieve}{111}
+\contentsline {section}{\numberline {12.5}Primality Testing $O(\sqrt {n}/\qopname \relax o{ln}(\sqrt {n}))$}{112}
+\contentsline {section}{\numberline {12.6}Miller-Rabin}{112}
+\contentsline {section}{\numberline {12.7}Integer Factorization}{114}
+\contentsline {section}{\numberline {12.8}? Pollard Rho}{117}
+\contentsline {section}{\numberline {12.9}Extended Euclid}{117}
+\contentsline {section}{\numberline {12.10}? Linear Diophantine Equations}{117}
+\contentsline {section}{\numberline {12.11}? Modular Linear Equation}{118}
+\contentsline {section}{\numberline {12.12}? Chinese Remainder Theorem}{118}
+\contentsline {section}{\numberline {12.13}? Multiplicative Inverses modulo $n$}{118}
+\contentsline {section}{\numberline {12.14}Perfect Number Test}{118}
+\contentsline {section}{\numberline {12.15}Notes}{118}
+\contentsline {chapter}{\numberline {13}Probability and Combinatorics}{121}
+\contentsline {section}{\numberline {13.1}Fibonacci Sequence}{121}
+\contentsline {section}{\numberline {13.2}Binomial Coefficients}{122}
+\contentsline {section}{\numberline {13.3}Catalan Numbers}{123}
+\contentsline {section}{\numberline {13.4}Inclusion Exclusion}{124}
+\contentsline {paragraph}{Stars \& Bars Theorem 1}{125}
+\contentsline {paragraph}{Stars \& Bars Theorem 2}{125}
+\contentsline {section}{\numberline {13.5}Probability Theory}{125}
+\contentsline {section}{\numberline {13.6}? Finite Infinite Recursion}{126}
+\contentsline {section}{\numberline {13.7}Subsequence Count}{127}
+\contentsline {section}{\numberline {13.8}Notes}{130}
+\contentsline {chapter}{\numberline {14}Linear Algebra}{133}
+\contentsline {section}{\numberline {14.1}Gaussian Elimination}{133}
+\contentsline {section}{\numberline {14.2}Matrix Power}{135}
+\contentsline {section}{\numberline {14.3}? Simpsons' Integration}{135}
+\contentsline {section}{\numberline {14.4}? Floyd's Cycle Finding}{137}
+\contentsline {section}{\numberline {14.5}? Fast Fourier Transform}{137}
+\contentsline {chapter}{\numberline {15}Game Theory}{141}
+\contentsline {section}{\numberline {15.1}Nim Game}{141}
+\contentsline {section}{\numberline {15.2}Josephus Problem}{141}
+\contentsline {section}{\numberline {15.3}Notes}{142}
+\contentsline {chapter}{\numberline {16}String Processing}{143}
+\contentsline {section}{\numberline {16.1}Knuth-Morris-Pratt}{143}
+\contentsline {section}{\numberline {16.2}? Z}{144}
+\contentsline {section}{\numberline {16.3}Rabin-Karp}{144}
+\contentsline {section}{\numberline {16.4}Trie}{147}
+\contentsline {section}{\numberline {16.5}? Patrica Tree}{150}
+\contentsline {section}{\numberline {16.6}? Aho-Corasick}{150}
+\contentsline {section}{\numberline {16.7}? Suffix Array $O(n^2\qopname \relax o{log}n)$}{150}
+\contentsline {section}{\numberline {16.8}? Suffix Array $O(n\qopname \relax o{log}^2 n)$}{150}
+\contentsline {section}{\numberline {16.9}? Suffix Array $O(n\qopname \relax o{log}n)$}{151}
+\contentsline {section}{\numberline {16.10}? Longest Common Prefix}{154}
+\contentsline {section}{\numberline {16.11}Permutation}{155}
+\contentsline {section}{\numberline {16.12}Edit Distance}{156}
+\contentsline {section}{\numberline {16.13}Shortest Uncommon Subsequence}{157}
+\contentsline {section}{\numberline {16.14}Arithmetic Expression parsing}{158}
+\contentsline {section}{\numberline {16.15}Notes}{160}
+\contentsline {chapter}{\numberline {17}Geometry}{161}
+\contentsline {section}{\numberline {17.1}Points, Lines, \& Vectors}{161}
+\contentsline {section}{\numberline {17.2}Triangles}{166}
+\contentsline {section}{\numberline {17.3}Circles}{168}
+\contentsline {section}{\numberline {17.4}Minimum Enclosing Circle}{172}
+\contentsline {section}{\numberline {17.5}Polygons}{173}
+\contentsline {section}{\numberline {17.6}Convex Hull}{176}
+\contentsline {section}{\numberline {17.7}2-D Closest Pair $O(n\qopname \relax o{log}n)$}{179}
+\contentsline {section}{\numberline {17.8}Great-Circle Distance}{180}
+\contentsline {section}{\numberline {17.9}Notes}{180}
+\contentsline {chapter}{\numberline {18}Data Structures}{183}
+\contentsline {section}{\numberline {18.1}Disjoint Sets}{183}
+\contentsline {section}{\numberline {18.2}Bit Masking}{186}
+\contentsline {section}{\numberline {18.3}Segment Trees $O(n \qopname \relax o{log}n)$}{187}
+\contentsline {subsection}{\numberline {18.3.1}Range Maximum Query}{187}
+\contentsline {subsection}{\numberline {18.3.2}Range Sum Query - Lazy Propagation - OOP Implementation}{190}
+\contentsline {subsection}{\numberline {18.3.3}Bit Flipping - Lazy Propagation}{194}
+\contentsline {subsection}{\numberline {18.3.4}Subinterval Segment Tree}{198}
+\contentsline {subsection}{\numberline {18.3.5}? Persistent Segment Tree}{200}
+\contentsline {subsection}{\numberline {18.3.6}Subinterval Segment Tree}{201}
+\contentsline {section}{\numberline {18.4}Fenwick Trees $O(n\qopname \relax o{log}n)$}{201}
+\contentsline {section}{\numberline {18.5}Sparse Tables}{202}
+\contentsline {section}{\numberline {18.6}? Treap}{203}
+\contentsline {section}{\numberline {18.7}Notes}{203}
+\contentsline {chapter}{\numberline {19}Miscellaneous}{205}
+\contentsline {section}{\numberline {19.1}Stress Test}{205}
+\contentsline {section}{\numberline {19.2}Strategy}{207}
+\contentsline {section}{\numberline {19.3}Hints For ICPC}{208}
