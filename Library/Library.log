@@ -1,0 +1,2920 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.6.1)  20 NOV 2018 14:49
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**Library.tex
+(./Library.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks14
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box26
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks18
+))
+\pgf@x=\dimen105
+\pgf@y=\dimen106
+\pgf@xa=\dimen107
+\pgf@ya=\dimen108
+\pgf@xb=\dimen109
+\pgf@yb=\dimen110
+\pgf@xc=\dimen111
+\pgf@yc=\dimen112
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count89
+\c@pgf@countb=\count90
+\c@pgf@countc=\count91
+\c@pgf@countd=\count92
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count93
+\pgfsyssoftpath@bigbuffer@items=\count94
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen113
+\pgfmath@count=\count95
+\pgfmath@box=\box27
+\pgfmath@toks=\toks19
+\pgfmath@stack@operand=\toks20
+\pgfmath@stack@operation=\toks21
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count96
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen114
+\pgf@picmaxx=\dimen115
+\pgf@picminy=\dimen116
+\pgf@picmaxy=\dimen117
+\pgf@pathminx=\dimen118
+\pgf@pathmaxx=\dimen119
+\pgf@pathminy=\dimen120
+\pgf@pathmaxy=\dimen121
+\pgf@xx=\dimen122
+\pgf@xy=\dimen123
+\pgf@yx=\dimen124
+\pgf@yy=\dimen125
+\pgf@zx=\dimen126
+\pgf@zy=\dimen127
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen128
+\pgf@path@lasty=\dimen129
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen130
+\pgf@shorten@start@additional=\dimen131
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count97
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen132
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen133
+\pgf@pt@y=\dimen134
+\pgf@pt@temp=\dimen135
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen136
+\pgf@sys@shading@range@num=\count98
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box31
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box32
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen137
+\pgf@nodesepend=\dimen138
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen139
+\pgffor@skip=\dimen140
+\pgffor@stack=\toks22
+\pgffor@toks=\toks23
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count99
+\pgfplotmarksize=\dimen141
+)
+\tikz@lastx=\dimen142
+\tikz@lasty=\dimen143
+\tikz@lastxsaved=\dimen144
+\tikz@lastysaved=\dimen145
+\tikzleveldistance=\dimen146
+\tikzsiblingdistance=\dimen147
+\tikz@figbox=\box33
+\tikz@tempbox=\box34
+\tikztreelevel=\count100
+\tikznumberofchildren=\count101
+\tikznumberofcurrentchild=\count102
+\tikz@fig@count=\count103
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count104
+\pgfmatrixcurrentcolumn=\count105
+\pgf@matrix@numberofcolumns=\count106
+)
+\tikz@expandcount=\count107
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks27
+\ex@=\dimen148
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box35
+\strutbox@=\box36
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip10
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks28
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks29
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks30
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count120
+\float@exts=\toks32
+\float@box=\box37
+\@float@everytoks=\toks33
+\@floatcapt=\box38
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen157
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen158
+\subfiglabelskip=\skip49
+\c@subfigure=\count121
+\c@lofdepth=\count122
+\c@subtable=\count123
+\c@lotdepth=\count124
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count125
+\Gm@cntv=\count126
+\c@Gm@tempcnt=\count127
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2011/09/17 v1.7 Yet another Pygments shim for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count128
+\FV@InFile=\read2
+\FV@TabBox=\box39
+\c@FancyVerbLine=\count129
+\FV@StepNumber=\count130
+\FV@OutFile=\write4
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count131
+\calc@Bcount=\count132
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count133
+\calc@Cskip=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+runsystem(uname -s > "Library.w18")...executed.
+
+
+(./Library.w18)
+runsystem(rm -- "Library.w18")...executed.
+
+)
+\minted@bgbox=\box40
+\minted@code=\write5
+\@float@every@listing=\toks35
+\c@listing=\count134
+)
+runsystem(which pygmentize && touch Library.aex)...executed.
+
+runsystem(rm Library.aex)...executed.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/spverbatim/spverbatim.sty
+Package: spverbatim 2009/08/10 v1.0 Verbatim with breakable spaces
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen169
+\enit@toks=\toks36
+\enit@inbox=\box41
+\enitdp@description=\count135
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count136
+)
+No file Library.aux.
+\openout1 = `Library.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen170
+\scratchbox=\box42
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen171
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks38
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(108.405pt, 397.485pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=397.485pt
+* \textheight=578.15999pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=4.26122pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+runsystem(pygmentize -S default -f latex > Library.pyg)...executed.
+
+(./Library.pyg)
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]
+No file Library.toc.
+\tf@toc=\write6
+\openout6 = `Library.toc'.
+
+[3] [4
+
+]
+Chapter 1.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 4.
+)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [5])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (7.2088pt too wide) in paragraph at lines 116--116
+[]\OT1/cmr/bx/n/17.28 Longest In-creas-ing Sub-se-quence (It-er-a-tive)
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [7])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (7.2088pt too wide) in paragraph at lines 148--148
+[]\OT1/cmr/bx/n/17.28 Longest In-creas-ing Sub-se-quence (It-er-a-tive)
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [8])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (12.73363pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 1.5.  LONGEST INCREASING SUBSEQUENCE (ITERATIVE) $\OML/cmm/m/i
+t/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 N [] K\OT1/cmr/m/n/12 )$ 9
+ []
+
+[9]
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [10])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [11])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [12])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [14] [15])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (18.2498pt too wide) in paragraph at lines 411--411
+[]\OT1/cmr/bx/n/17.28 Counting Coin Change (Fixed-size) $\OML/cmm/m/it/17.28 O\
+OT1/cmr/m/n/17.28 (\OML/cmm/m/it/17.28 nKS\OT1/cmr/m/n/17.28 )$ 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [16])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [17])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 2512) has occurred while \output is active []
+
+ [19])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [20])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [21])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [22])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (6.75699pt too wide) in paragraph at lines 688--688
+[]\OT1/cmr/bx/n/17.28 Bitonic Trav-el-ing Sales-man Prob-lem $\OML/cmm/m/it/17.
+28 O\OT1/cmr/m/n/17.28 (\OML/cmm/m/it/17.28 n[]\OT1/cmr/m/n/17.28 )$ 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [23])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+[27] [28]
+Chapter 2.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [29
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [30])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [31])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [32] [33] [34]
+Chapter 3.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1005) has occurred while \output is active []
+
+ [35
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [38])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [39])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+[43] [44
+
+]
+Chapter 4.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [45])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [46])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [47])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [48]
+[49] [50
+
+]
+Chapter 5.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [51])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [52])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [53])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [54])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [55] [56]
+Chapter 6.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [57
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [58])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [59])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [60])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [61])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [63])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [64]
+Chapter 7.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1019) has occurred while \output is active []
+
+ [65
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [66])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [67] [68
+
+]
+Chapter 8.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [71]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (6.4378pt too wide) in paragraph at lines 2333--2333
+[]\OT1/cmr/bx/n/17.28 Strongly Con-nected Components$[]$ $\OML/cmm/m/it/17.28 O
+\OT1/cmr/m/n/17.28 (\OML/cmm/m/it/17.28 E\OT1/cmr/m/n/17.28 )$ 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [73]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [74])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (29.56038pt too wide) in paragraph at lines 2379--2379
+[]\OT1/cmr/bx/n/17.28 Strongly-Connected Components$[]$, $\OML/cmm/m/it/17.28 O
+\OT1/cmr/m/n/17.28 (\OML/cmm/m/it/17.28 E\OT1/cmr/m/n/17.28 )$ 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [75])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [76] [77] [78
+
+]
+Chapter 9.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [79])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [80])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [81]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [83])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [84]
+Chapter 10.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+ [85
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (17.65384pt too wide) in paragraph at lines 2748--2748
+[]\OT1/cmr/bx/n/17.28 Maximum Flow (DFS) with Scal-ing $\OML/cmm/m/it/17.28 O\O
+T1/cmr/m/n/17.28 (\OML/cmm/m/it/17.28 VE\OT1/cmr/m/n/17.28 ) \OMS/cmsy/m/n/17.2
+8 ^^C
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [86])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Overfull \hbox (17.48402pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 10.3.  MAXIMUM FLOW (BFS) WITH RESIDUE MATRIX $\OML/cmm/m/it/1
+2 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 VE\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^C \
+OML/cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 E[]\OT1/cmr/m/n/12 )$ 87
+ []
+
+[87])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [90]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [92])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+[95]
+Overfull \hbox (107.36493pt too wide) in paragraph at lines 3112--3112
+ []\OT1/cmtt/m/n/12 #define idx(a, b) ((a) * m + (b)) // assign a label to a ve
+rtex in a 2-D grid[] 
+ []
+
+[96]
+Chapter 11.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+ [97
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [98])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [100])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [101] [102] [103] [104
+
+]
+Chapter 12.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [105])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [106])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [107])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [110])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [111])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [112])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [113])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (12.25935pt too wide) in paragraph at lines 3743--3744
+[]\OT1/cmr/m/n/12 Some large primes are: $104729$, $1299709$, $15485863$, $1794
+24673$, $2147483647$,
+ []
+
+[114]
+Overfull \hbox (44.67998pt too wide) in paragraph at lines 3780--3781
+[]\OT1/cmr/m/n/12 Number of dig-its in dec-i-mal rep-re-sen-ta-tion of $\OML/cm
+m/m/it/12 x$ \OT1/cmr/m/n/12 is $(\OML/cmm/m/it/12 int\OT1/cmr/m/n/12 )\OML/cmm
+/m/it/12 floor\OT1/cmr/m/n/12 (1 + \OML/cmm/m/it/12 log\OT1/cmr/m/n/12 10((\OML
+/cmm/m/it/12 double\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ));$ 
+ []
+
+[115] [116
+
+]
+Chapter 13.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l java -f latex -F tokenmerge      -P mathescape       -P
+ "verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.o
+ut.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [117])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 3871.
+
+
+Underfull \vbox (badness 1708) has occurred while \output is active []
+
+ [118]
+Overfull \hbox (2.23724pt too wide) in paragraph at lines 3875--3876
+[]\OT1/cmr/m/n/12 Expressions con-tain-ing n pairs of paren-the-ses which are c
+or-rectly matched 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [119])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+Overfull \hbox (79.86298pt too wide) in paragraph at lines 3900--3900
+[] 
+ []
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [120])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [121])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l java -f latex -F tokenmerge      -P mathescape       -P
+ "verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.o
+ut.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 3954) has occurred while \output is active []
+
+ [122]
+[123])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l java -f latex -F tokenmerge      -P mathescape       -P
+ "verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.o
+ut.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [124]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [125])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+[126] [127] [128
+
+]
+Chapter 14.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l python -f latex -F tokenmerge      -P mathescape       
+-P "verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library
+.out.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [129])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [131]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [132])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [133]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+[135] [136
+
+]
+Chapter 15.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [137]
+Overfull \hbox (0.20535pt too wide) in paragraph at lines 4469--4470
+[]\OT1/cmr/m/n/12 Dynamic Pro-gram-ming (Build-ing Ta-ble, or Re-cur-sive Back-
+track-ing) with
+ []
+
+[138]
+Chapter 16.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg [139
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [140]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [142])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [143])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [144])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [145])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [146])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [147]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [148]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [150])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [151])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l csharp -f latex -F tokenmerge      -P mathescape       
+-P "verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library
+.out.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [152])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [153])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [154]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+[156]
+Chapter 17.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1308) has occurred while \output is active []
+
+ [157
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [158]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [161])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [162]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [164]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [165]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [166])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [167])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [168]
+[169]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [170]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [171])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [172])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [173]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [174])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [175])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [176] [177] [178
+
+]
+Chapter 18.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg
+Underfull \vbox (badness 1308) has occurred while \output is active []
+
+ [179])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [180]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [181])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [182])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [183]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [184]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [186]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [187]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [188]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [189])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [190]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [191]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [192]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [193])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [194])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [195]
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+ [196])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg subinterval-segment-tree.cc)...executed.
+
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [197])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg [198])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+
+[199] [200]
+Chapter 19.
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+(./Library.out.pyg)
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l sh -f latex -F tokenmerge      -P mathescape       -P "
+verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.out
+.pyg Library.pyg)...executed.
+
+ (./Library.out.pyg
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [201
+
+])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+\openout4 = `Library.pyg'.
+
+runsystem(pygmentize -l cpp -f latex -F tokenmerge      -P mathescape       -P 
+"verboptions= ,frame=single,xleftmargin=-50pt,xrightmargin=-50pt" -o Library.ou
+t.pyg Library.pyg)...executed.
+
+
+(./Library.out.pyg [202])
+runsystem(rm Library.out.pyg)...executed.
+
+runsystem(rm Library.pyg)...executed.
+
+ [203] [204]
+Overfull \hbox (7.85103pt too wide) in paragraph at lines 7027--7028
+[]\OT1/cmr/m/n/12 Read the prob-lem state-ment care-fully, high-light the im-po
+r-tant points,
+ []
+
+[205] [206] [207] (./Library.aux) ) 
+Here is how much of TeX's memory you used:
+ 13174 strings out of 493304
+ 232035 string characters out of 6139872
+ 375994 words of memory out of 5000000
+ 16033 multiletter control sequences out of 15000+600000
+ 17184 words of font info for 67 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 56i,10n,55p,767b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Library.pdf (207 pages, 585128 bytes).
+PDF statistics:
+ 747 PDF objects out of 1000 (max. 8388607)
+ 514 compressed objects within 6 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
